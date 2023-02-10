@@ -8,4 +8,5 @@ def calculate_sum(array):
     
 if __name__ == "__main__":
         print_id("34567")
+        calculate_sum(np.array([1, 2, 3]))
         
